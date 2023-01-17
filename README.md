@@ -4,4 +4,10 @@ This is simple telegram bot , written on python . The task of the bot is to dete
 
 # Start
 
+You need to register on the site: https://openweathermap.org/api
+And you'll get special API code 
+
+
+
 python main.py
+
