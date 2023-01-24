@@ -5,8 +5,8 @@ This is simple telegram bot , written on python . The task of the bot is to dete
 # Start
 
 You need to register on the site: https://openweathermap.org/api
-And you'll get special API code 
-You need to paste this code in 
+And you'll get special API code and 
+you need to paste this code in 
 `keys="your_key"`
 
 Next you need to create a new telegram bot and get his API in @BotFather
